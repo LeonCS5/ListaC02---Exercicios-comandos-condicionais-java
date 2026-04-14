@@ -1,5 +1,5 @@
-//12. Ler um numero inteiro. Se o numero lido for negativo, escreva a mensagem "Numero invalido".
-// Se o numero for positivo, calcular o logaritmo deste numero.
+//Ex12
+//Leia um numero inteiro; se for positivo calcule o logaritmo, senao mostre numero invalido.
 
 import java.util.Scanner;
 

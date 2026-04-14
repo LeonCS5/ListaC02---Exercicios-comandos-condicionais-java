@@ -1,5 +1,5 @@
-//16. Usando switch, escreva um programa que leia um inteiro entre 1 e 12 e imprima o mes
-// correspondente a este numero.
+//Ex16
+//Usando switch, leia um inteiro de 1 a 12 e imprima o mes correspondente.
 
 import java.util.Scanner;
 

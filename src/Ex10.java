@@ -26,6 +26,6 @@ public class Ex10 {
         } else {
             System.out.println("Sexo inválido. Por favor, digite M para masculino ou F para feminino.");
         }
-
+        scanner.close();
     }
 }
