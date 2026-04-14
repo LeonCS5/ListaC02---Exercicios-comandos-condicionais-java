@@ -1,7 +1,5 @@
-//13. Faca um algoritmo que calcule a media ponderada das notas de 3 provas.
-// A primeira e a segunda prova tem peso 1 e a terceira tem peso 2.
-// Ao final, mostrar a media do aluno e indicar se o aluno foi aprovado ou reprovado.
-// A nota para aprovacao deve ser igual ou superior a 60 pontos.
+//Ex13
+//Calcule a media ponderada de 3 provas (pesos 1, 1 e 2) e informe se o aluno foi aprovado.
 
 import java.util.Scanner;
 

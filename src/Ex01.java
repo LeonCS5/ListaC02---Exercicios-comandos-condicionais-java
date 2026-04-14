@@ -1,4 +1,4 @@
-//01
+//Ex01
 //Fac ̧a um programa que receba dois numeros e mostre qual deles  ́ e o maior.
 import java.util.Scanner;
 

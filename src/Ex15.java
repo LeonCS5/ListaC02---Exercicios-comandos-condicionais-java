@@ -1,5 +1,5 @@
-//15. Usando switch, escreva um programa que leia um inteiro entre 1 e 7 e imprima o dia da semana
-// correspondente a este numero.
+//Ex15
+//Usando switch, leia um inteiro de 1 a 7 e imprima o dia da semana correspondente.
 
 import java.util.Scanner;
 
